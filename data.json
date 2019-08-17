@@ -1,26 +1,26 @@
 {
-    "name": "Bharat Agarwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "name": "Aman Seth",
+    "title": "Full Stack Web Developer Competitive Programmer Data Scientist",
+    "intro": "Tech Enthusiasts",
     "skills": [{
-            "title": "Skill 1",
+            "title": "Python",
             "rating": "90"
         },
         {
-            "title": "Skill 2",
-            "rating": "97"
+            "title": "Data Structure and Algorithms",
+            "rating": "85"
         },
         {
-            "title": "Skill 3",
+            "title": "Web development ",
             "rating": "85"
         },{
-            "title": "Skill 1",
-            "rating": "90"
+            "title": "Data Science",
+            "rating": "60"
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "location": "Lovely Professional University",
+        "phone": "7007475073",
+        "email": "sethaman1112@gmail.com"
     }
 }
